@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Company Profile of Software Engineering ITTP**
 
-- 🌱 I’m currently learning **PHP, MySql and Laravel**
+- 🌱 I’m currently learning **Tailwind, PHP, MySql and Laravel**
 
 - 💬 Ask me about **PHP, MySql, Laravel and gsap.**
 
