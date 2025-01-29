@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, XML, Jetpack Compose, Flutter**
 
-- 👨‍💻 All of my projects are available at [www.rizfn.my.id/](www.rizfn.my.id/)
+- 👨‍💻 All of my projects are available at [www.rizfn.my.id](https://www.rizfn.my.id/)
 
 - 💬 Ask me about **Kotlin, XML, Android Studio, etc.**
 
