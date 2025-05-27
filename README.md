@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rizfan Herlaya</h1>
-<h3 align="center">A Student Majoring in Software Engineering</h3>
+<h3 align="center">Fresh Graduate from Telkom University Purwokerto Majoring in Software Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizfan&label=Profile%20views&color=0e75b6&style=flat" alt="rizfan" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, XML, Jetpack Compose, Flutter**
+- 🌱 I’m currently learning **ExpressJs, Laravel, Vue, React Js**
 
 - 👨‍💻 All of my projects are available at [www.rizfn.my.id](https://www.rizfn.my.id/)
 
