@@ -77,13 +77,15 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.81%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%206%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 375.8 kB Used in GitHub's Storage 
+> 📦 376.0 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -91,6 +93,46 @@
  > 
 > 🔑 70 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 23/05/2026 18:04:35 UTC
+```text
+🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+🌆 Daytime                301 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+🌃 Evening                437 commits         ████████████░░░░░░░░░░░░░   47.24 % 
+🌙 Night                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Tuesday                  184 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Thursday                 256 commits         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+Friday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Sunday                   76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Blade Template           3 hrs 16 mins       ███████████████░░░░░░░░░░   58.17 % 
+PHP                      1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 18:01:40 UTC
 <!--END_SECTION:waka-->
