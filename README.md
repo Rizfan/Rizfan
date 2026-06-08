@@ -77,6 +77,8 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%202%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -92,5 +94,5 @@
 > 🔑 70 Private Repositories 
  > 
 
- Last Updated on 07/06/2026 18:07:58 UTC
+ Last Updated on 08/06/2026 19:24:15 UTC
 <!--END_SECTION:waka-->
