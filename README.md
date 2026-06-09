@@ -93,6 +93,44 @@
  > 
 > 🔑 70 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 08/06/2026 19:24:15 UTC
+```text
+🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌆 Daytime                304 commits         ████████░░░░░░░░░░░░░░░░░   30.55 % 
+🌃 Evening                488 commits         ████████████░░░░░░░░░░░░░   49.05 % 
+🌙 Night                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Tuesday                  191 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Wednesday                172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 262 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Friday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      13 mins             ███████████████████████░░   92.99 % 
+Blade Template           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔥 Editors: 
+VS Code                  14 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  14 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/06/2026 19:19:35 UTC
 <!--END_SECTION:waka-->
